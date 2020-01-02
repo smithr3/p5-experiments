@@ -1,0 +1,19 @@
+box shadow projection - in 2d, not actual 3d
+dungeon generation
+- caves, rooms, doors
+- enemies
+- keys, locked doors, quest stuff
+- show steps, with variables to modify
+feedback loops
+- slow step by step sim of maths
+2d boids - follow paths, maybe make them cars
+3d boids - avoid obstacles
+neural nets
+platformer AI
+chaotic systems
+fractal trees
+mandlebrot set
+perlin noise
+fourier
+maze generation
+genetic algorithms
