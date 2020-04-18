@@ -37,6 +37,10 @@ function setup() {
   obstacles.push(new Obstacle(width/2 + 70, height-550, 50, 100));
   obstacles.push(new Obstacle(width/2, height-600, 20, 50));
 
+  // obstacles.push(new Obstacle(width/2, height-100, 100, 10));
+  // obstacles.push(new Obstacle(width/2 + 100, height-200, 150, 10));
+  // obstacles.push(new Obstacle(width/2 - 100, height-200, 150, 10));
+
   // boundaries
   obstacles.push(new Obstacle(0, height/2, 50, height+2));
   obstacles.push(new Obstacle(width, height/2, 50, height+2));
